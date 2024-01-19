@@ -1,0 +1,1 @@
+In this project , prediction of salary of player has been done and data analysis and data visualization has been done , based upon this deployement of model has taken place , deployement is performed using streamlit app .
